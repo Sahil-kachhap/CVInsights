@@ -1,0 +1,9 @@
+streamlit
+PyDrive
+langchain
+PyPDF2
+pypdf
+pinecone-client
+sentence-transformers
+python-dotenv
+replicate
